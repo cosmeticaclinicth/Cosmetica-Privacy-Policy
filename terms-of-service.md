@@ -4,6 +4,13 @@ title: Terms of Service | Cosmetica Clinic
 description: Terms of Service for Cosmetica Clinic Co., Ltd. — clinic communication services through Facebook / Instagram / Messenger.
 ---
 
+**Cosmetica Clinic — Legal:**
+[Privacy Policy](/Cosmetica-Privacy-Policy/) ·
+[Terms of Service](/Cosmetica-Privacy-Policy/terms-of-service) ·
+[Data Deletion](/Cosmetica-Privacy-Policy/data-deletion)
+
+---
+
 # Terms of Service — Cosmetica Clinic Co., Ltd.
 
 **Last updated:** 2026-05-20

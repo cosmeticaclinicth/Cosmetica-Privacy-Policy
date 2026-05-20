@@ -3,6 +3,13 @@ layout: default
 title: Privacy Policy
 ---
 
+**Cosmetica Clinic — Legal:**
+[Privacy Policy](/Cosmetica-Privacy-Policy/) ·
+[Terms of Service](/Cosmetica-Privacy-Policy/terms-of-service) ·
+[Data Deletion](/Cosmetica-Privacy-Policy/data-deletion)
+
+---
+
 # Privacy Policy — Cosmetica Clinic Co., Ltd.
 
 **Effective date:** 13 May 2026
