@@ -4,10 +4,7 @@ title: Data Deletion Instructions
 permalink: /data-deletion/
 ---
 
-**Cosmetica Clinic — Legal:**
-[Privacy Policy](/Cosmetica-Privacy-Policy/) ·
-[Terms of Service](/Cosmetica-Privacy-Policy/terms-of-service) ·
-[Data Deletion](/Cosmetica-Privacy-Policy/data-deletion)
+**Cosmetica Clinic — Legal:** [Privacy Policy](../) · [Terms of Service](../terms-of-service/) · [Data Deletion](./)
 
 ---
 
